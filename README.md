@@ -18,3 +18,5 @@ Make a detailed description of the two unique features
 
 
 #### Two unique features:
+Facial verification so there won't be any people faking who their idenity or creating bots, making the app more secure and safe.
+Cuurent status will make it so that user are able to set what they are currently doing so other user or friends may want to join on what the status is.
