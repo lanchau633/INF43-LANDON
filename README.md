@@ -1,6 +1,6 @@
 # 43
 ### Title: Friend-Finding Map: 
-Team Members: Anna Chen (annac26), Daniel Han (hand12), Daniel Cho (), Burhan Shahid (shahidb@uci.edu), Landon Chau (landonc2@uci.edu)
+Team Members: Anna Chen (annac26), Daniel Han (hand12), Daniel Cho (djcho5@uci.edu), Burhan Shahid (shahidb@uci.edu), Landon Chau (landonc2@uci.edu)
 
 #### Executive Summary:
 This website provides a solution for people looking to find others with similar interests in their area.
