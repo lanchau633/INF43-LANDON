@@ -1,6 +1,6 @@
 # 43
 ### Title: Friend-Finding Map: 
-Team Members: Anna Chen (annac26), Daniel Han (), Daniel Cho (), Burhan Shahid (), Landon Chau ()
+Team Members: Anna Chen (annac26), Daniel Han (hand12), Daniel Cho (), Burhan Shahid (), Landon Chau ()
 
 #### Executive Summary:
 This website provides a solution for people looking to find others with similar interests in their area.
