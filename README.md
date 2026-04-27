@@ -29,11 +29,11 @@ The app will run on IOS and is for mobile usage. It'll depend on the user's loca
 
 - Interest pins at a time/place for large groups to meet up / events: Users can drop a pin on the map at a specific time and location to invite others to a planned activity or event. Pins are matched to relevant interest tags so that users with shared hobbies are notified of opportunities nearby.
 
-Directory of interests for users in an area to discover: The app provides a browsable directory of active interests, groups, and users in a given area, allowing people to discover what's happening around them. This gives users an alternative to the map view and makes it easy to explore communities, trending activities, or niche interest groups they may not have encountered otherwise.
+- Directory of interests for users in an area to discover: The app provides a browsable directory of active interests, groups, and users in a given area, allowing people to discover what's happening around them. This gives users an alternative to the map view and makes it easy to explore communities, trending activities, or niche interest groups they may not have encountered otherwise.
 
-Interactive map: Map will show a tailored map of groups and meeting points set by the user tags, the interest pins are able to be specified for a specific location, such as what floor and room allows pictures to be taken of the meeting location for a better understanding.
+- Interactive map: Map will show a tailored map of groups and meeting points set by the user tags, the interest pins are able to be specified for a specific location, such as what floor and room allows pictures to be taken of the meeting location for a better understanding.
 
-Users are able to specify distance ranges: Users are able to go into settings and change the distance they are able to start, see, or join a group meeting on a map. For specific people, the user can define the exact location the closest friends can see. For other distant friends (not best friends), a custom range (options should be given) could be defined depending on the trust level (5 mi, 10 mi, 50 mi)
+- Users are able to specify distance ranges: Users are able to go into settings and change the distance they are able to start, see, or join a group meeting on a map. For specific people, the user can define the exact location the closest friends can see. For other distant friends (not best friends), a custom range (options should be given) could be defined depending on the trust level (5 mi, 10 mi, 50 mi)
 
 
 #### Two unique features:
