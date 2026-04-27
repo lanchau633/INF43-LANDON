@@ -1,5 +1,5 @@
 # 43
-### Title: Friend-Finding Map: 
+### Title: MapMates: 
 Team Members: Anna Chen (annac26), Daniel Han (hand12), Daniel Cho (djcho5@uci.edu), Burhan Shahid (shahidb@uci.edu), Landon Chau (landonc2@uci.edu)
 
 #### Executive Summary:
